@@ -1,5 +1,5 @@
 # Sound Increaser and Decreaser
-Sound Increaser and Decreaser Made from Python
+Simple Sound Increaser and Decreaser Made Application made from Python
 
 Requierments
 ---
